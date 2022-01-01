@@ -1,0 +1,101 @@
+/*********  ebay listing detail    ***************/
+body{ max-width:1170px;}
+body, .container{ 
+	/*min-width:1020px; */
+	color:#303030; 
+	font-family: Verdana, Geneva, sans-serif;
+	border: 5px solid #F89C2B;
+	padding: 10px;
+	box-shadow:0px 0px 10px #F89C2B;
+	margin:auto;
+	background-color:#FFF;
+}
+.container.first{ color:#39F; border: 5px solid #39F !important;}
+.container.second{ color:#999; border: 5px solid #999 !important;}
+.container.third{ color:#C93; border: 5px solid #C93 !important;}
+.container.four{ color:#582802; border: 5px solid #333 !important;}
+.container.five{ color:#30A6B1; border: 5px solid #30A6B1 !important;}
+.container.six{ color:#28825D; border: 5px solid #28825D !important;}
+.container.seven{ color:#582802; border: 5px solid #582802;}
+
+
+.big-img-div img{ border-radius:10px;}
+.first-td{ width:120px; font-weight:bold; vertical-align:top;}
+.second-td{ width:200px; font-weight:normal; color:#333; vertical-align:top;}
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+    padding: 0;
+	margin: 0;
+	clear:both;
+}
+h2{ font-size:30px;}
+.fontsize14 { font-size: 14px !important;}
+.fleft{ float:left !important;}
+.fright{ float:right !important;}
+.tcenter{ text-align:center;}
+.pos-abs{ position:absolute;}
+.pos-rel{ position:relative;}
+.inner_container{ color:#333;}
+.bor-top0{ border:none !important;}
+.bor-bottom0{ border:none !important;}
+.box-sh0{ box-shadow: none !important;}
+.vtop{ vertical-align:top;}
+
+.one-third.column {
+    float: left;
+    text-align: center;
+    width: 33.3%;
+}
+.one-third.column img {
+	height: 65px;
+}
+.u-line {
+    background: url("../images/line-rule.jpg") no-repeat scroll center bottom transparent;
+    height: 15px;
+	clear:both;
+}
+.copyrightbottom {
+    background: none repeat scroll 0 0 #2C2C2C;
+    color: #969BA4 !important;
+    padding: 15px 0;
+}
+.copyrightbottom a{ color:#FFF !important;}
+.f-style{
+	font-family:"Monotype Corsiva" !important;
+	font-size:42px;
+}
+.sub_header{ margin:10px; font-weight:bold;}
+.header_logo{ 
+	height:32px;
+	width:180px;
+	display:inline-block;
+	position:relative;
+	top:-35px;
+}
+.header_logo.left{ 
+	background: url("../images/header-vector.jpg") no-repeat;	
+}
+.header_logo.right{
+	background: url("../images/header-vector.jpg") no-repeat right;
+}
+.logo{
+	background: url("../images/meera_logo.png") no-repeat;
+	height:150px;
+	width:155px;
+	display:inline-block;
+}
+.logo.florence{
+	background: url("../images/florence_logo.jpg") no-repeat !important;
+	width:210px !important;
+}
+.top_header_text{ font-size:32px !important}
+.container.custom .first-td{ 
+	font-size:14px; 
+	width:150px !important; 
+	padding:3px;
+}
+.container.custom .second-td{ 
+	font-size:14px; 
+	width:200px !important; 
+	padding:3px;
+}

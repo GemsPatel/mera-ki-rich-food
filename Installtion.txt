@@ -1,0 +1,12 @@
+UPDATE `configuration` SET `config_value` = 'info@cloudwebs.net' WHERE `configuration`.`config_id` = 1;
+UPDATE `article` SET `article_description` = 'I Invite you to learn education video from money video viewer<br /> You can even invite your friends, for every friend that register and learn video we will pay you Rs. 2 every video learn.<br />' WHERE `article`.`article_id` = 1;
+UPDATE `configuration` SET `config_value` = 'info@cloudwebs.net' WHERE `configuration`.`config_id` = 4;
+UPDATE `configuration` SET `config_value` = 'support@cloudwebs.net' WHERE `configuration`.`config_id` = 5;
+UPDATE `configuration` SET `config_value` = 'info@cloudwebs.net' WHERE `configuration`.`config_id` = 7;
+UPDATE `configuration` SET `config_value` = 'sales@cloudwebs.net' WHERE `configuration`.`config_id` = 20;
+UPDATE `configuration` SET `config_value` = 'info@cloudwebs.net' WHERE `configuration`.`config_id` = 22;
+UPDATE `configuration` SET `config_value` = 'partner@cloudwebs.net' WHERE `configuration`.`config_id` = 23;
+UPDATE `site_config` SET `custom_page_title` = 'Online Video Viewer | Education | Microsoft | Internet | GA-GK | Health', `meta_description` = 'Online Video Viewer | Education | Microsoft | Internet | GA-GK | Health', `meta_keyword` = 'Online Video Viewer | Education | Microsoft | Internet | GA-GK | Health', `author` = 'Online Video Viewer', `content_rights` = 'Online Video Viewer' WHERE `site_config`.`site_config_id` = 3;
+UPDATE `site_config` SET `custom_page_title` = 'Online Video Viewer | Education | Microsoft | Internet | GA-GK | Health', `meta_description` = 'Online Video Viewer | Education | Microsoft | Internet | GA-GK | Health', `meta_keyword` = 'Online Video Viewer | Education | Microsoft | Internet | GA-GK | Health', `author` = 'Online Video Viewer', `content_rights` = 'Online Video Viewer' WHERE `site_config`.`site_config_id` = 4;
+
+Live Update:
